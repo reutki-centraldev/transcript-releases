@@ -1,6 +1,6 @@
 # Transcript
 
-Releases and the auto-update feed for **Transcript**, a macOS menu bar app that records meetings, transcribes them on-device (Romanian, Russian, English) with speaker labels, and writes summaries you can ask questions about.
+Releases and the auto-update feed for **Transcript**, a macOS menu bar app that records your meetings (audio, and optionally the meeting window as video), transcribes them on your Mac in any language with speaker labels, and gives you notes, Q&A and speaking insights.
 
 ## Install
 1. Download **Transcript.dmg** from the [latest release](https://github.com/reutki-centraldev/transcript-releases/releases/latest) and drag Transcript to Applications.
